@@ -6,6 +6,8 @@ GCP 프리티어 사용하기
 -	1개의 고정IP 할당 가능
 -	고정IP 할당 받은 인스턴스를 통해 우회적 클러스터 구성 가능
 
+<br><br>
+
 <img src="./pictures/gcp-freetier-01.png">
 
 <img src="./pictures/gcp-freetier-02.png">
