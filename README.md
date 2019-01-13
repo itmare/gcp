@@ -54,3 +54,5 @@ GCP 프리티어 사용하기
 <img src="./pictures/gcp-freetier-14.png">
 
 -	SSH keys 탭으로 이동, 키 추가<br><br>
+	-	local에서 gcp server01 접속: 로컬에서 생성한 ssh key를 "metadata -> ssh keys"에 추가
+	-	server01에서 나머지 서버 접속: server01에서 생성한 ssh key를 "metadata -> ssh keys"에 추가
